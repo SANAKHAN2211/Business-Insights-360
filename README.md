@@ -14,7 +14,7 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 
 https://codebasics.io/?utm_campaign=codebasicsmaxperformancepaid&utm_id=googleadspaid&gad_source=1&gclid=CjwKCAiA_tuuBhAUEiwAvxkgTgs6OBiKi_5bM5wgurOuoqSdM_Y6yNjopbsHbnScv7k4q9-6l9Ny2xoCtq4QAvD_BwE
 
-## 🔗 Live project link
+## 🔗 Live project link: 
 
 
 ## Tech stacks
@@ -272,4 +272,13 @@ Support
 
 
 https://github.com/SANAKHAN2211/Business-Insights-360/assets/153427538/3eeb2a35-b0a1-40ec-a29c-9dae3fbd5a73
+
+
+
+## Project Outcome
+
+By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
+
+
+
 
