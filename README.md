@@ -12,7 +12,7 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 ## 🔗 Course link
 
 
-https://codebasics.io/?utm_campaign=codebasicsmaxperformancepaid&utm_id=googleadspaid&gad_source=1&gclid=CjwKCAiA_tuuBhAUEiwAvxkgTgs6OBiKi_5bM5wgurOuoqSdM_Y6yNjopbsHbnScv7k4q9-6l9Ny2xoCtq4QAvD_BwE
+👆[CLICK](https://codebasics.io/?utm_campaign=codebasicsmaxperformancepaid&utm_id=googleadspaid&gad_source=1&gclid=CjwKCAiA_tuuBhAUEiwAvxkgTgs6OBiKi_5bM5wgurOuoqSdM_Y6yNjopbsHbnScv7k4q9-6l9Ny2xoCtq4QAvD_BwE)
 
 ## 🔗 Live project link:  [Live dashboard](https://app.powerbi.com/view?r=eyJrIjoiODAzYzc5NjYtYmMwOC00YzAwLWIwNGUtYjMwM2U1ZjQ1MmJhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
